@@ -1,0 +1,16 @@
+{
+    "name": "Blocks",
+    "title" : "Blocks for Pinoo",
+    "keywords": "blocks, pinoo",
+    "description": "Blocks for Pinoo.",
+    "homepage": "https://github.com/KDunlu/servo-pinoo",
+    "license": "MIT",
+    "git": "https://github.com/KDunlu/servo-pinoo/",
+    "author": "KD",
+    "email": "kdunlu@gmail.com",
+    "url": "http://www.pinoo.io",
+    "version": "1.0.0",
+    "board" : "",
+    "platform": ["arduino-pinoo"],
+    "image" : "/static/display.jpg"
+  }
